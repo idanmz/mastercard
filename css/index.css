@@ -34,7 +34,6 @@
   
   .mastercard-icon::after {
     background-color: #f79e1b;
-    mix-blend-mode: hard-light;
     right: 0;
     top: 0;
   }
